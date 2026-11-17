@@ -2,6 +2,8 @@
 
 ## Основные материалы
 
+- [Общие материалы: настройка Git и GitHub](https://github.com/Flovwvers-students/common-course-materials)
+
 - [Кодстайл](code-style/README.md)
 - [Лабораторные №1 и №2](labs/README.md)
 - [Сдача лабораторных через GitHub](git/lab-submission.md)
