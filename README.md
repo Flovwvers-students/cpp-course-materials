@@ -11,6 +11,10 @@
 - [Шаблон отчёта и таблица ИИ](templates/lab-report.md)
 - [Шаблон описания PR](templates/pull_request_template.md)
 
+## Практические задания
+
+- [Практика №3. Структуры данных (PDF)](practice/practice-03-data-structures.pdf)
+
 ## Git и командная тренировка
 
 - [Инструкция к тренировке калькулятора](git/github-cpp-m2.md)
