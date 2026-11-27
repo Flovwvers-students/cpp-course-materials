@@ -50,7 +50,7 @@ lab-02/
 
    ```sh
    git rm --cached -- lab-02/lab2.zip
-   git add -- lab-02
+   git add -- .gitignore lab-02
    git diff --cached --name-status
    ```
 
